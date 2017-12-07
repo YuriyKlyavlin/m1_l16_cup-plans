@@ -51,8 +51,7 @@ body {
 	width: 1200px;
 	height: 600px;
 	margin: 100px auto;
-	background: #FDDE7E linear-gradient(to right,
-		rgba(255, 255, 255, 0) 50%, rgba(150, 150, 150, .02) 50%) center center / 1em;
+	background: #FDDE7E linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(150, 150, 150, .02) 50%) center center / 1em;
 }
 .flex-container {
 	display: flex;
